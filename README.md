@@ -1,2 +1,0 @@
-# GoogleBooksReact
-Created with CodeSandbox
