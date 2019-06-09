@@ -44,7 +44,7 @@ const SearchForm = () => {
             value={searchTerm}
             onChange={onInputChange}
           />
-          <button type="submit">Search</button>
+          <button type="input">Search</button>
         </label>
       </form>
       <ul>
